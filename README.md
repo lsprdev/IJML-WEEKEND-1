@@ -20,7 +20,7 @@ The challenge is to create a RESTful API using Django Rest Framework and a simpl
 - Develop a simple front-end interface using Vue.js to interact with the API.
 - Add instructions on how to run the project.
 
-### Endpoints
+### Must Have Endpoints:
 
 - POST /signup
 - POST /login
@@ -29,9 +29,9 @@ The challenge is to create a RESTful API using Django Rest Framework and a simpl
 - PUT /users/:id
 - DELETE /users/:id
 
-### Payload
+### Payload:
 
-Propose a payload you like. If you prefer, here is an example:
+Propose a payload you like. If you prefer, here are some examples:
 
 GET /users
 
@@ -67,11 +67,7 @@ POST /users
 }
 ```
 
-
-
-
-
-Useful Materials
+### Useful Materials
 
 - https://www.django-rest-framework.org/
 - https://www.django-rest-framework.org/api-guide/authentication/
