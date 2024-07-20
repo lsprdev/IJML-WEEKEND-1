@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  database:
+    image: postgres
+    container_name: ijml-postgres
+    environment:
+      POSTGRES_USER: ijml
+      POSTGRES_PASSWORD: ijml
+    ports:
+      - "5500:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+volumes:
+  db_data:
