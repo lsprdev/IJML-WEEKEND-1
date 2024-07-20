@@ -1,6 +1,8 @@
 # Hackathon IJML(It's Just Myself, Literally) - Weekend 1
 
-This is a project for the first weekend of the Hackathon IJML. The goal is to create a RESTful API using Django Rest Framework and aim sple front-end interface using Vue.js. And yeah, I'm the only participant in this hackathon, so it's just myself, literally. But you can join me if you want to, just clone this repository and have fun! 🚀
+Welcome to my hackathon project! This is a project for the first weekend of Hackathon IJML. The goal is to create a RESTful API using Django Rest Framework and a simple front-end interface using Vue.js. And yeah, I'm the only participant in this hackathon, so it's just myself, literally.
+
+Feel free to join me if you want to — just clone this repo, delete my code, and have fun! 🚀
 
 ### Challenge Overview
 
